@@ -1,0 +1,46 @@
+*{  
+    padding: 0;
+    margin: 0;
+}
+body{
+    border: solid black 1px; 
+    height: 1024px;
+    width: 1440px;
+    background-color:#f3f3f3;
+}
+
+header{ border: solid blue 1px;
+    background-color: rgb(219, 213, 203);
+    width: 1920px;
+    height: 310px;
+}
+
+header .header-logo {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 24px;
+    font-weight: 900;
+    color: #111;
+    text-transform: none;
+    display: block;
+    margin: 0 auto;
+    text-align: start;
+    padding: 20px;
+}
+
+main{   
+    border: solid violet 1px;
+    height: 2301px;
+    width: 1440px;
+}
+
+nav{
+    border: solid black 1px;    
+    background-color: crimson;
+}
+
+footer{ 
+    border: solid black 1px;
+    height: 350px;
+    width: 1440px;
+    background-color: darkcyan;
+}
